@@ -1,0 +1,14 @@
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\bin\Debug\net8.0\PrinterSystem.exe
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\bin\Debug\net8.0\PrinterSystem.deps.json
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\bin\Debug\net8.0\PrinterSystem.runtimeconfig.json
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\bin\Debug\net8.0\PrinterSystem.dll
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\bin\Debug\net8.0\PrinterSystem.pdb
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.AssemblyInfoInputs.cache
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.AssemblyInfo.cs
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.dll
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\refint\PrinterSystem.dll
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.pdb
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\PrinterSystem.genruntimeconfig.cache
+C:\Users\Zola\Desktop\projects\dz\8 лаба РПМ\PrinterSystem\obj\Debug\net8.0\ref\PrinterSystem.dll
